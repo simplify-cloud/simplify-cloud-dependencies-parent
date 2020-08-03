@@ -1,7 +1,7 @@
 # simplify-cloud-dependencies-parent
 Simplify Cloud Build Dependencies
 
-## 发布项目
+## Deploy
 
 ```bash
 heyuqiang@heyuqiangdeMBP simplify-cloud-dependencies-parent % mvn clean deploy -P central
